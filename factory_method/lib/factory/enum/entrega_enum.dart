@@ -1,0 +1,1 @@
+enum Entrega { BIKE, MOTO }
